@@ -1,3 +1,15 @@
+INSTRUCTIONS
+1. MAKE SURE U HAVE NPM INSTALLED AND RUNNING ON YOUR SYSTEM
+2. CLONE THE REPO TO DESIRED LOCATION IN YOUR SYSTEM 
+3. RUN THE COMMAND npm install TO INSTALL ALL THE REQUIRED DEPENDENCIES 
+4. RUN THE COMMAND npm start AND BROWSE TO localhost:3000 U WILL SEE THE APP RUNNING.
+
+
+IN ORDER TO SEE HOW THE APP LOOKS AND FUNCTIONS. HERE IS A LINK TO IT'S DEPLOYMENT ON HEROK
+https://material-ui-table.herokuapp.com/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
