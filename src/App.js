@@ -11,7 +11,6 @@ const emailCheck = (email) => {
   return re.test(String(email).toLowerCase());
 }
 
-const fetch= require('fetch');
 
 
 
